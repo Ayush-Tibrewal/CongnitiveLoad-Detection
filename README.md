@@ -4,7 +4,6 @@
 # Cognitive Load Detection
 
 ![GitHub](https://img.shields.io/github/license/Ayush-Tibrewal/CongnitiveLoad-Detection?style=flat-square)
-![GitHub stars](https://img.shields.io/github/stars/Ayush-Tibrewal/CongnitiveLoad-Detection?style=social)
 
 This project aims to detect cognitive load using various physiological and behavioral signals. Cognitive load refers to the total amount of mental effort being used in the working memory. Detecting cognitive load can have applications in education, healthcare, human-computer interaction, and more.
 
